@@ -423,3 +423,13 @@ For issues and questions:
 ---
 
 **Note:** This server provides a convenient interface to AlphaFold data but does not store or cache structure data. All data is retrieved directly from the official AlphaFold API.
+
+## Citation
+If you use this project in your research or publications, please cite it as follows:
+
+```bibtex @misc{alphafoldmcp2025, 
+author = {Moudather Chelbi},
+title = {AlphaFold MCP Server},
+year = {2025},
+howpublished = {https://github.com/Augmented-Nature/AlphaFold-MCP-Server},
+note = {Accessed: 2025-06-29}
