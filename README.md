@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/augmented-nature-alphafold-mcp-server-badge.png)](https://mseep.ai/app/augmented-nature-alphafold-mcp-server)
+
 ![AlphaFold MCP Server Logo](alphafold-mcp-server-logo.png)
 # AlphaFold MCP Server
 
